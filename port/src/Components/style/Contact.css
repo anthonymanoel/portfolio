@@ -1,0 +1,11 @@
+.FA{
+    color: #3772ff;
+    display:inline;
+    
+}
+.FA:hover {
+          transform: scale(2);
+        }
+a{
+    text-decoration: none;
+  }
